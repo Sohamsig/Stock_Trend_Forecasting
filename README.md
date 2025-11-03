@@ -41,7 +41,7 @@ It allows users to view technical indicators, compare stocks, and visualize fore
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<Sohamsig>/stock_trend_forecasting.git
+   git clone https://github.com/<your username>/stock_trend_forecasting.git
 
 cd stock_trend_forecasting
 npm install
