@@ -61,6 +61,16 @@ stock_trend_forecasting/
 ├── package.json
 └── README.md
 
+
+
+🧑‍💻 Author
+
+Soham Babrekar
+📬 Open for collaboration & feedback.
+📚 Project: Stock Trend Forecasting
+
+<img width="1898" height="882" alt="image" src="https://github.com/user-attachments/assets/a90b9f49-0e5e-429b-997d-29fc9114915a" />
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
